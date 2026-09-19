@@ -1,0 +1,8 @@
+[project]
+name = "codex-effort-router"
+version = "0.0.1"
+description = "Adaptive reasoning-effort router for Codex engineering tasks"
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
